@@ -1,0 +1,15 @@
+
+p.clr{
+font-family: sans-serif;
+font-weight: bold;
+text-align: center;
+}
+.video-fluid {
+    width: 100%;
+    height: auto;
+  }
+ul.fac{
+    color:white;
+    text-align:left;
+    font-weight: bold;
+}
